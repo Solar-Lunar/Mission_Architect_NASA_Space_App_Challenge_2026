@@ -1,0 +1,30 @@
+# Godot generated editor/import cache
+.godot/
+**/.godot/
+
+# Frontend dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+dist-ssr/
+
+# Generated logs and temporary files
+*.log
+*_log.txt
+game_run_err.txt
+*.tmp
+MissionArchitect_Godot4/tools/_diag*.png
+MissionArchitect_Godot4/tools/_diag*.png.import
+MissionArchitect_Godot4/tools/_zoom*.png
+MissionArchitect_Godot4/tools/_zoom*.png.import
+MissionArchitect_Godot4/tools/_crop*.png
+MissionArchitect_Godot4/tools/_crop*.png.import
+MissionArchitect_Godot4/tools/_shot*.png
+MissionArchitect_Godot4/tools/_shot*.png.import
+MissionArchitect_Godot4/tools/_*.txt
+
+# Local editor settings
+.vscode/
+.idea/
+.DS_Store
